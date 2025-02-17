@@ -67,7 +67,7 @@ Make sure to handle the responce if the requested books was not there in every o
     "title": "The Great Gatsby (Updated Edition)",
     "copies": 7
 }
-
+  
 
 ### **Delete a Book (D)**
 
